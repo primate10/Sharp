@@ -1,2 +1,2 @@
 # Sharp
-Situational Hearing Aid Profile
+Situational Hearing Aid Response Profile
